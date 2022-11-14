@@ -1,0 +1,80 @@
+
+.Iam {
+  margin: 0;
+  font-family: "Sofia", sans-serif;
+  color: #DF7861;
+  font-size: 2.5rem;
+}
+.h2Web {
+  font-family: monospace;
+  font-size: 1.5rem;
+  color: #789395
+}
+
+h2 {
+  color: #DF7861;
+}
+
+h3 {
+  color: #DF7861;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #CEE5D0;
+}
+
+p {
+  font-family: monospace;
+  font-size: 1.2em;
+  color: #789395;
+}
+
+.middle-container{
+background-color: #CEE5D0;
+}
+
+.top_div {
+  background-color: #FCF8E8;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 25%;
+  top: 10%;
+  opacity: 0.40;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 27%;
+  top: 15%;
+  opacity: 0.40;
+}
+
+.skills {
+  background-color: #CEE5D0;
+  margin-top: 50px;
+  width: 70%;
+  margin:100px auto 100px auto;
+}
+
+.p-photo {
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+}
+
+.contact-me {
+background-color: #DF7861;
+margin: 0;
+}
+
+a {
+  color: #DF7861;
+}
+.CoMe {
+  color: black;
+}
